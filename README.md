@@ -33,7 +33,7 @@ client.show_many(user_ids)
 
 Puxar lista de seguidores + status 
 ```python
-client.get_followerV2(user_id)
+client.get_followerV2(user_id, count)
 ```
 
 Seguir usuário 
